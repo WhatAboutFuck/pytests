@@ -1,3 +1,3 @@
 # Stepik---auto-tests-course
 contains scripts for testing
-http:sstepik.orgcourse575syllabus
+https://stepik.org/course/575/syllabus
